@@ -1,5 +1,1 @@
-import './styles.css';
-
-import './menu.json'
-
-import './templates/menu.hbs';
+import './sass/main.scss';
